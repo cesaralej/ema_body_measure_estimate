@@ -1,0 +1,15 @@
+/data
+*.jpg
+*.jpeg
+*.png
+/legacy
+/runs
+/yolo
+/results
+/ema/data
+/ema/__pycache__
+/ema/focal_points.ipynb
+/ema/streamlit_app.py
+pose.ipynb
+test.py
+measurements.csv
